@@ -71,6 +71,10 @@ With **AI + RAG**, it:
     Your browser does not support the video tag.
 </video>
 
+<iframe src="./src/Keywords_car_repair_search.pdf" width="600" height="500"></iframe>
+
+<embed src="./src/Keywords_car_repair_search.pdf" width="600" height="500" type="application/pdf">
+
 ---
 
 ## 📖 Full Description
