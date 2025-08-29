@@ -67,6 +67,10 @@ With **AI + RAG**, it:
     </tbody>
 </table>
 
+<video src="https://github.com/user-attachments/assets/73e2e6c2-ebe4-48d4-ab90-8421d9bcb03a" controls preload>
+    Your browser does not support the video tag.
+</video>
+
 ---
 
 ## 📖 Full Description
