@@ -14,6 +14,8 @@ With **AI + RAG**, it:
 
 ## 🗂️ Scheme
 
+<img src="./img/img-1.png" alt="Scheme" />
+
 ---
 
 ## ⚙️ Technical Description
@@ -31,6 +33,9 @@ With **AI + RAG**, it:
 ---
 
 ## 📖 Full Description
+
+<details>
+  <summary>📖 Full Description</summary>
 
 ### ❌ Problem
 In digital advertising, teams struggle with:
@@ -57,9 +62,9 @@ Our AI-powered platform integrates **analytics + keyword generation** using RAG:
 - **Data Sources:** CTR, CPC, impressions, comments, ad copy
 - **ETL:** Pandas + SQL + Scikit-learn for clustering & anomaly detection
 - **Models:**
-    - KMeans & DBSCAN for content clustering
-    - Sentiment classifiers for customer feedback
-    - Engagement pattern extraction per platform
+  - KMeans & DBSCAN for content clustering
+  - Sentiment classifiers for customer feedback
+  - Engagement pattern extraction per platform
 
 ### 🤖 RAG Pipeline for Keyword Generation
 - **Embeddings & Retrieval:** Sentence-Transformers + FAISS semantic index
@@ -83,6 +88,8 @@ Our AI-powered platform integrates **analytics + keyword generation** using RAG:
 - 📊 **Campaign analysis dashboards** for marketing agencies
 - ✍️ **AI-generated briefs** for creative teams
 - 📈 **Trend-based suggestions** tailored by audience behavior
+
+</details>
 
 ---
 
