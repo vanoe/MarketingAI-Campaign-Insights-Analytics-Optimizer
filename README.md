@@ -83,6 +83,11 @@ With **AI + RAG**, it:
 
 [📄 Read PDF](./src/Keywords_car_repair_search.pdf)
 
+
+<iframe src="./src/Keywords_car_repair_search.pdf"></iframe>
+<embed src="./src/Keywords_car_repair_search.pdf">
+<object data="./src/Keywords_car_repair_search.pdf"></object>
+
 ---
 
 ## 📖 Full Description
