@@ -80,6 +80,9 @@ With **AI + RAG**, it:
 
 [![Open PDF](Keywords car repair search)](./src/Keywords_car_repair_search.pdf)
 
+
+[📄 Read PDF](./src/Keywords_car_repair_search.pdf)
+
 ---
 
 ## 📖 Full Description
