@@ -30,6 +30,43 @@ With **AI + RAG**, it:
 - **Campaign Insights:** Extracts top-performing ad themes from past campaigns.
 - **Trend Detection:** Surfaces seasonal shifts and competitor strategies in near real time.
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-6.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-9.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📖 Full Description
