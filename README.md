@@ -72,7 +72,7 @@ With **AI + RAG**, it:
 ## 📖 Full Description
 
 <details>
-  <summary>📖 Full Description</summary>
+  <summary>📖 Click to expand the Description</summary>
 
 ### ❌ Problem
 In digital advertising, teams struggle with:
@@ -126,8 +126,6 @@ Our AI-powered platform integrates **analytics + keyword generation** using RAG:
 - ✍️ **AI-generated briefs** for creative teams
 - 📈 **Trend-based suggestions** tailored by audience behavior
 
-</details>
-
 ---
 
 ## 📚 References
@@ -138,6 +136,5 @@ Our AI-powered platform integrates **analytics + keyword generation** using RAG:
 - Google (2023). *SEO Starter Guide*.
 - HubSpot (2024). *State of Marketing Report*.
 
----
-
+</details>
 
