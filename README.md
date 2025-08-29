@@ -71,7 +71,7 @@ With **AI + RAG**, it:
     Your browser does not support the video tag.
 </video>
 
-[![📄 Keywords car repair search](./src/Keywords_car_repair_search.pdf)](./src/Keywords_car_repair_search.pdf)
+[📄 Keywords car repair search](./src/Keywords_car_repair_search.pdf)
 
 ---
 
